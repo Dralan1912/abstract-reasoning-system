@@ -1,0 +1,5 @@
+# workspace configuration
+.vscode/
+
+# python .gitignore
+.venv/
